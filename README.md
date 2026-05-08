@@ -103,6 +103,10 @@ Smart campus bookstore for UIU students — curated textbooks, stationery & exam
 
 ---
 
+> *"Engineering technology that makes a real impact — one commit at a time."*
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -116,7 +120,3 @@ Smart campus bookstore for UIU students — curated textbooks, stationery & exam
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ApurboSM&label=Profile%20Views&color=0e75b6&style=flat" alt="ApurboSM" />
 </p>
-
----
-
-> *"Engineering technology that makes a real impact — one commit at a time."*
