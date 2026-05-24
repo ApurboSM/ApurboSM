@@ -16,7 +16,7 @@ I'm the Founding Software Engineer of **[ClassTablet](https://classtablet.com)**
 
 ### 📢 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23a020f0.svg?&style=flat-square&logo=internet-explorer&logoColor=white)](https://smapurbo.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23a020f0.svg?&style=flat-square&logo=internet-explorer&logoColor=white)](https://smapurbo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-m-apurbo007)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/smapurbo007)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/ApurboSM)
