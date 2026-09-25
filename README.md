@@ -1,5 +1,5 @@
 # 👋 Hi, I'm S. M. Apurbo
-**`CS Undergrad @ BRAC University`**  
+**`CS graduate @ BRAC University`**  
 Building at the intersection of **AI, Full-Stack Dev, and Real-World Impact**
 
 ---
@@ -9,7 +9,7 @@ Building at the intersection of **AI, Full-Stack Dev, and Real-World Impact**
 </div>
 
 ### 🚀 About Me
-I'm a Computer Science student at BRAC University, passionate about **AI**, **Machine Learning**, and **full-stack development**.  
+I'm a Software Engineer passionate about **AI**, **Machine Learning**, and **full-stack development**.  
 I'm the Founding Software Engineer of **[ClassTablet](https://classtablet.com)** — Bangladesh's first all-in-one AI classroom management platform for teachers, students, parents & institutions — and also Founding Software Engineer and Technical Lead of **[PlayerLagbe](https://playerlagbe.com)** — Bangladesh's first digital platform for finding players and booking turfs for sports matchmaking. I enjoy combining backend logic with frontend polish to build products that make a real difference.
 
 ---
